@@ -1,0 +1,747 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//My Calendar Product//mxm.dk//
+BEGIN:VEVENT
+SUMMARY:Imperial College Union Welcome Fair (Clubs and Societies)
+DTSTART:20241001T070000
+DTEND:20241001T235900
+ALL_DAY:False
+DESCRIPTION:Event category: For Information Only\nPublished Online Link:\n
+ Department: CTSO Central Timetabling Support Office\nId: 4467426\nNotes:
+LOCATION:Room information missing
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wellbeing session PhD and MSc
+DTSTART:20241002T110000
+DTEND:20241002T120000
+ALL_DAY:False
+DESCRIPTION:Module: EE1 Year Group Meeting\nRoom:\nEENG 406 [South Kensing
+ ton]\nEENG 408 [South Kensington]\nStaff:\nGreenwood\, Kelly L\nRainbow\, 
+ Emma\nGroups:\nEE-MScA\nEE-MScAML\nEE-MScC\nEE-MScCSP\nEE-MScFPN\nEvent ca
+ tegory: Induction\nPublished Online Link:\nDepartment: EE Department of El
+ ectrical and Electronic Engineering\nId: 3655316\nNotes:
+LOCATION:EENG 406 [South Kensington] EENG 408 [South Kensington]
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MScAML Lunch Social
+DTSTART:20241003T131500
+DTEND:20241003T143000
+ALL_DAY:False
+DESCRIPTION:Module: Department of Electrical and Electronic Engineering Ad
+  Hoc\nRoom: EENG 407A [South Kensington]\nStaff: Rainbow\, Emma\nGroup: EE
+ -MScAML\nEvent category: Induction\nPublished Online Link:\nDepartment: EE
+  Department of Electrical and Electronic Engineering\nId: 4671488\nNotes:
+LOCATION:EENG 407A [South Kensington]
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neuroscience for machine learners
+DTSTART:20241001T110000
+DTEND:20241001T130000
+ALL_DAY:False
+DESCRIPTION:Module: ELEC70110 - Neuroscience for Machine Learners\nStaff: 
+ Goodman\, Daniel F M\nGroups:\nEE-EEE4 - ELEC70110 NML\nEE-EEE4 Taster\nEE
+ -EIE4 - ELEC70110 NML\nEE-EIE4 Taster\nEE-MScAML - ELEC70110 NML\nEE-MScAM
+ L Taster\nEvent category: Lecture\nPublished Online Link:\nDepartment: EE 
+ Department of Electrical and Electronic Engineering\nId: 4207872\nNotes:
+LOCATION:Room information missing
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Postgraduate Services - Induction
+DTSTART:20241002T134500
+DTEND:20241002T150000
+ALL_DAY:False
+DESCRIPTION:Module: Department of Electrical and Electronic Engineering Ad
+  Hoc\nRoom:\nEENG 406 [South Kensington]\nEENG 408 [South Kensington]\nSta
+ ff: Rainbow\, Emma\nGroups:\nEE-MScA\nEE-MScAML\nEE-MScC\nEE-MScCSP\nEE-MS
+ cFPN\nEvent category: Induction\nPublished Online Link:\nDepartment: EE De
+ partment of Electrical and Electronic Engineering\nId: 4566575\nNotes:
+LOCATION:EENG 406 [South Kensington] EENG 408 [South Kensington]
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Plagiarism Awareness
+DTSTART:20241002T150000
+DTEND:20241002T160000
+ALL_DAY:False
+DESCRIPTION:Module: Department of Electrical and Electronic Engineering Ad
+  Hoc\nRoom: EENG 408 [South Kensington]\nStaff: Rainbow\, Emma\nGroups:\nE
+ E-MScA\nEE-MScAML\nEE-MScC\nEE-MScCSP\nEE-MScFPN\nEvent category: Inductio
+ n\nPublished Online Link:\nDepartment: EE Department of Electrical and Ele
+ ctronic Engineering\nId: 4566577\nNotes:
+LOCATION:EENG 408 [South Kensington]
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELEC70039 - Wavelets\, Representation Learning and their Applicati
+ ons
+DTSTART:20241007T110000
+DTEND:20241007T130000
+ALL_DAY:False
+DESCRIPTION:Module: ELEC70039 - Wavelets\, Representation Learning and the
+ ir Applications\nRoom:\nEENG 403A [South Kensington]\nEENG 403B [South Ken
+ sington]\nStaff: Dragotti\, Pier Luigi\nGroups:\nEE-EEE4 - 4.45WA\nEE-EEE4
+  Taster\nEE-EIE4 - 4.45WA\nEE-EIE4 Taster\nEE-MScAML - 4.45WA\nEE-MScAML T
+ aster\nEE-MScC - 4.45WA\nEE-MScC Taster\nEE-MScCSP - 4.45WA\nEE-MScCSP Tas
+ ter\nEvent category: Lecture\nPublished Online Link:\nDepartment: EE Depar
+ tment of Electrical and Electronic Engineering\nId: 2395078\nNotes:
+LOCATION:EENG 403A [South Kensington] EENG 403B [South Kensington]
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELEC70048 - Probability and Stochastic Processes
+DTSTART:20241008T110000
+DTEND:20241008T130000
+ALL_DAY:False
+DESCRIPTION:Module: ELEC70048 - Probability and Stochastic Processes\nRoom
+ :\nEENG 403A [South Kensington]\nEENG 403B [South Kensington]\nStaff: Ling
+ \, Cong\nGroups:\nEE-EEE4 - 4.10PSP\nEE-EEE4 Taster\nEE-EIE4 - 4.10PSP\nEE
+ -EIE4 Taster\nEE-MScAML - 4.10PSP\nEE-MScAML Taster\nEE-MScC - 4.10PSP\nEE
+ -MScC Taster\nEE-MScCSP\nEE-MScCSP Taster\nEE-MScFPN - 4.10PSP\nEE-MScFPN 
+ Taster\nEvent category: Lecture\nPublished Online Link:\nDepartment: EE De
+ partment of Electrical and Electronic Engineering\nId: 3329789\nNotes:
+LOCATION:EENG 403A [South Kensington] EENG 403B [South Kensington]
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EEMSc Tutorial (TBC)
+DTSTART:20241009T114500
+DTEND:20241009T124500
+ALL_DAY:False
+DESCRIPTION:Module: EEMSc Tutorial\nRoom: EENG 1015 [South Kensington]\nSt
+ aff: Mikolajczyk\, Krystian M\nEvent category: Academic Tutorial\nPublishe
+ d Online Link:\nDepartment: EE Department of Electrical and Electronic Eng
+ ineering\nId: 3868235\nNotes:
+LOCATION:EENG 1015 [South Kensington]
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELEC70060 - Laboratory in Applied Machine Learning
+DTSTART:20241010T110000
+DTEND:20241010T130000
+ALL_DAY:False
+DESCRIPTION:Module: ELEC70060 - Laboratory in AML\nRoom: EENG 507 [South K
+ ensington]\nStaff:\nAbu Ebayyeh\, Abd Al Rahman M\nQin\, Chen\nSpiers\, Ad
+ \nGroup: EE-MScAML\nEvent category: Laboratory Session\nPublished Online L
+ ink:\nDepartment: EE Department of Electrical and Electronic Engineering\n
+ Id: 3329750\nNotes:
+LOCATION:EENG 507 [South Kensington]
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELEC70098 - Optimisation
+DTSTART:20241011T090000
+DTEND:20241011T110000
+ALL_DAY:False
+DESCRIPTION:Module: ELEC70098 - Optimisation\nRoom: SAFB G16 - Lecture The
+ atre - Level 1 [South Kensington]\nStaff: Astolfi\, Alessandro\nGroups:\nA
+ ERO-ELEC70098 OP\nCE4 EE-E4.29\nEE-EEE4 - 4.29O\nEE-EEE4 Taster\nEE-EIE4 -
+  4.29O\nEE-EIE4 Taster\nEE-MScAML - 70098Opt\nEE-MScAML Taster\nEE-MScC - 
+ 4.29O\nEE-MScC Taster\nEE-MScFPN - 4.29O\nEE-MScFPN Taster\nELEC70024 - Op
+ timisation\nME EE4-29\nME4-ALL\nEvent category: Lecture\nPublished Online 
+ Link:\nDepartment: EE Department of Electrical and Electronic Engineering\
+ nId: 454458\nNotes:
+LOCATION:SAFB G16 - Lecture Theatre - Level 1 [South Kensington]
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELEC70037 - Topics in Large Dimensional Data Processing
+DTSTART:20241007T140000
+DTEND:20241007T160000
+ALL_DAY:False
+DESCRIPTION:Module: ELEC70037 - Topics in Large Dimensional Data Processin
+ g\nRoom: EENG 305 [South Kensington]\nStaff: Dai\, Wei\nGroups:\nEE-EEE4 -
+  4.66LDDP\nEE-EEE4 Taster\nEE-EIE4 - 4.66LDDP\nEE-EIE4 Taster\nEE-MScAML -
+  4.66LDDP\nEE-MScAML Taster\nEE-MScCSP - 4.66LDDP\nEE-MScCSP Taster\nEvent
+  category: Lecture\nPublished Online Link:\nDepartment: EE Department of E
+ lectrical and Electronic Engineering\nId: 454492\nNotes:
+LOCATION:EENG 305 [South Kensington]
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neuroscience for machine learners
+DTSTART:20241008T110000
+DTEND:20241008T130000
+ALL_DAY:False
+DESCRIPTION:Module: ELEC70110 - Neuroscience for Machine Learners\nRoom: E
+ ENG 305 [South Kensington]\nStaff: Goodman\, Daniel F M\nGroups:\nEE-EEE4 
+ - ELEC70110 NML\nEE-EEE4 Taster\nEE-EIE4 - ELEC70110 NML\nEE-EIE4 Taster\n
+ EE-MScAML - ELEC70110 NML\nEE-MScAML Taster\nEvent category: Lecture\nPubl
+ ished Online Link:\nDepartment: EE Department of Electrical and Electronic
+  Engineering\nId: 4207872\nNotes:
+LOCATION:EENG 305 [South Kensington]
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELEC60019 - Machine Learning
+DTSTART:20241010T140000
+DTEND:20241010T160000
+ALL_DAY:False
+DESCRIPTION:Modules:\nELEC60019 - Machine Learning\nELEC70059 - Machine Le
+ arning\nRoom:\nEENG 403A [South Kensington]\nEENG 403B [South Kensington]\
+ nStaff:\nAbu Ebayyeh\, Abd Al Rahman M\nGunduz\, Deniz\nParbhoo\, Sonali\n
+ Groups:\nEE-EEE3 - 3.23ML\nEE-EEE3 Taster\nEE-EIE3 - 3.23ML\nEE-EIE3 Taste
+ r\nEE-MScA Taster\nEE-MScAML\nEE-MScAML Taster\nEvent category: Lecture\nP
+ ublished Online Link:\nDepartment: EE Department of Electrical and Electro
+ nic Engineering\nId: 2351037\nNotes:
+LOCATION:EENG 403A [South Kensington] EENG 403B [South Kensington]
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELEC70071 - Self-Organising Multi-Agent Systems
+DTSTART:20241011T110000
+DTEND:20241011T130000
+ALL_DAY:False
+DESCRIPTION:Module: ELEC70071 - Self-Organising Multi-Agent Systems\nRoom:
+  EENG 508A [South Kensington]\nStaff: Pitt\, Jeremy V\nGroups:\nEE-EEE4 - 
+ 4.70SOMAS\nEE-EEE4 Taster\nEE-EIE4 - 4.70SOMAS\nEE-EIE4 Taster\nEE-MScAML 
+ - 4.70SOMAS\nEE-MScAML Taster\nEvent category: Lecture\nPublished Online L
+ ink:\nDepartment: EE Department of Electrical and Electronic Engineering\n
+ Id: 2163627\nNotes:
+LOCATION:EENG 508A [South Kensington]
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELEC60004 - Machine Reasoning
+DTSTART:20241007T160000
+DTEND:20241007T180000
+ALL_DAY:False
+DESCRIPTION:Modules:\nELEC60004 - Machine Reasoning\nELEC70068 - Machine R
+ easoning\nRoom:\nEENG 508A [South Kensington]\nEENG 508B [South Kensington
+ ]\nStaff: Pitt\, Jeremy V\nGroups:\nEE-EEE3 - 3.16AI\nEE-EEE3 Taster\nEE-E
+ IE3 - 3.16AI\nEE-EIE3 Taster\nEE-MScAML - 3.16AI\nEE-MScAML Taster\nEvent 
+ category: Lecture\nPublished Online Link:\nDepartment: EE Department of El
+ ectrical and Electronic Engineering\nId: 3301926\nNotes:
+LOCATION:EENG 508A [South Kensington] EENG 508B [South Kensington]
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELEC70078 - Digital Image Processing
+DTSTART:20241008T140000
+DTEND:20241008T160000
+ALL_DAY:False
+DESCRIPTION:Module: ELEC70078 - Digital Image Processing\nRoom:\nEENG 403A
+  [South Kensington]\nEENG 403B [South Kensington]\nStaff: Stathaki\, Tania
+ \nGroups:\nEE-EEE4 - 4.08DIP\nEE-EEE4 Taster\nEE-EIE4 - 4.08DIP\nEE-EIE4 T
+ aster\nEE-MScAML - 4.08DIP\nEE-MScAML Taster\nEE-MScCSP - 4.08DIP\nEE-MScC
+ SP Taster\nEvent category: Lecture\nPublished Online Link:\nDepartment: EE
+  Department of Electrical and Electronic Engineering\nId: 2794890\nNotes:
+LOCATION:EENG 403A [South Kensington] EENG 403B [South Kensington]
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELEC70071 - Self-Organising Multi-Agent Systems
+DTSTART:20241011T140000
+DTEND:20241011T160000
+ALL_DAY:False
+DESCRIPTION:Module: ELEC70071 - Self-Organising Multi-Agent Systems\nRoom:
+ \nEENG 508A [South Kensington]\nEENG 508B [South Kensington]\nStaff: Pitt\
+ , Jeremy V\nGroups:\nEE-EEE4 - 4.70SOMAS\nEE-EEE4 Taster\nEE-EIE4 - 4.70SO
+ MAS\nEE-EIE4 Taster\nEE-MScAML - 4.70SOMAS\nEE-MScAML Taster\nEvent catego
+ ry: Lecture\nPublished Online Link:\nDepartment: EE Department of Electric
+ al and Electronic Engineering\nId: 3372823\nNotes:
+LOCATION:EENG 508A [South Kensington] EENG 508B [South Kensington]
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELEC60004 - Machine Reasoning
+DTSTART:20241008T160000
+DTEND:20241008T180000
+ALL_DAY:False
+DESCRIPTION:Modules:\nELEC60004 - Machine Reasoning\nELEC70068 - Machine R
+ easoning\nRoom:\nEENG 508A [South Kensington]\nEENG 508B [South Kensington
+ ]\nStaff:\nPeixoto Cardoso\, Rui P\nPitt\, Jeremy V\nGroups:\nEE-EEE3 - 3.
+ 16AI\nEE-EEE3 Taster\nEE-EIE3 - 3.16AI\nEE-EIE3 Taster\nEE-MScAML - 3.16AI
+ \nEE-MScAML Taster\nEvent category: Lecture\nPublished Online Link:\nDepar
+ tment: EE Department of Electrical and Electronic Engineering\nId: 3301936
+ \nNotes:
+LOCATION:EENG 508A [South Kensington] EENG 508B [South Kensington]
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELEC70039 - Wavelets\, Representation Learning and their Applicati
+ ons
+DTSTART:20241014T110000
+DTEND:20241014T130000
+ALL_DAY:False
+DESCRIPTION:Module: ELEC70039 - Wavelets\, Representation Learning and the
+ ir Applications\nRoom:\nEENG 403A [South Kensington]\nEENG 403B [South Ken
+ sington]\nStaff: Dragotti\, Pier Luigi\nGroups:\nEE-EEE4 - 4.45WA\nEE-EEE4
+  Taster\nEE-EIE4 - 4.45WA\nEE-EIE4 Taster\nEE-MScAML - 4.45WA\nEE-MScAML T
+ aster\nEE-MScC - 4.45WA\nEE-MScC Taster\nEE-MScCSP - 4.45WA\nEE-MScCSP Tas
+ ter\nEvent category: Lecture\nPublished Online Link:\nDepartment: EE Depar
+ tment of Electrical and Electronic Engineering\nId: 2395078\nNotes:
+LOCATION:EENG 403A [South Kensington] EENG 403B [South Kensington]
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELEC70048 - Probability and Stochastic Processes
+DTSTART:20241015T110000
+DTEND:20241015T130000
+ALL_DAY:False
+DESCRIPTION:Module: ELEC70048 - Probability and Stochastic Processes\nRoom
+ :\nEENG 403A [South Kensington]\nEENG 403B [South Kensington]\nStaff: Ling
+ \, Cong\nGroups:\nEE-EEE4 - 4.10PSP\nEE-EEE4 Taster\nEE-EIE4 - 4.10PSP\nEE
+ -EIE4 Taster\nEE-MScAML - 4.10PSP\nEE-MScAML Taster\nEE-MScC - 4.10PSP\nEE
+ -MScC Taster\nEE-MScCSP\nEE-MScCSP Taster\nEE-MScFPN - 4.10PSP\nEE-MScFPN 
+ Taster\nEvent category: Lecture\nPublished Online Link:\nDepartment: EE De
+ partment of Electrical and Electronic Engineering\nId: 3329789\nNotes:
+LOCATION:EENG 403A [South Kensington] EENG 403B [South Kensington]
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Commemoration Day
+DTSTART:20241016T070000
+DTEND:20241016T235900
+ALL_DAY:False
+DESCRIPTION:Event category: For Information Only\nPublished Online Link:\n
+ Department: CTSO Central Timetabling Support Office\nId: 4450366\nNotes:
+LOCATION:Room information missing
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELEC60019 - Machine Learning
+DTSTART:20241017T140000
+DTEND:20241017T160000
+ALL_DAY:False
+DESCRIPTION:Modules:\nELEC60019 - Machine Learning\nELEC70059 - Machine Le
+ arning\nRoom:\nEENG 403A [South Kensington]\nEENG 403B [South Kensington]\
+ nStaff:\nAbu Ebayyeh\, Abd Al Rahman M\nGunduz\, Deniz\nParbhoo\, Sonali\n
+ Groups:\nEE-EEE3 - 3.23ML\nEE-EEE3 Taster\nEE-EIE3 - 3.23ML\nEE-EIE3 Taste
+ r\nEE-MScA Taster\nEE-MScAML\nEE-MScAML Taster\nEvent category: Lecture\nP
+ ublished Online Link:\nDepartment: EE Department of Electrical and Electro
+ nic Engineering\nId: 2351037\nNotes:
+LOCATION:EENG 403A [South Kensington] EENG 403B [South Kensington]
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELEC70098 - Optimisation
+DTSTART:20241018T090000
+DTEND:20241018T110000
+ALL_DAY:False
+DESCRIPTION:Module: ELEC70098 - Optimisation\nRoom: HXLY 213 - Clore Lectu
+ re Theatre [South Kensington]\nStaff: Astolfi\, Alessandro\nGroups:\nAERO-
+ ELEC70098 OP\nCE4 EE-E4.29\nEE-EEE4 - 4.29O\nEE-EEE4 Taster\nEE-EIE4 - 4.2
+ 9O\nEE-EIE4 Taster\nEE-MScAML - 70098Opt\nEE-MScAML Taster\nEE-MScC - 4.29
+ O\nEE-MScC Taster\nEE-MScFPN - 4.29O\nEE-MScFPN Taster\nELEC70024 - Optimi
+ sation\nME EE4-29\nME4-ALL\nEvent category: Lecture\nPublished Online Link
+ :\nDepartment: EE Department of Electrical and Electronic Engineering\nId:
+  454458\nNotes:
+LOCATION:HXLY 213 - Clore Lecture Theatre [South Kensington]
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELEC70037 - Topics in Large Dimensional Data Processing
+DTSTART:20241014T140000
+DTEND:20241014T160000
+ALL_DAY:False
+DESCRIPTION:Module: ELEC70037 - Topics in Large Dimensional Data Processin
+ g\nRoom: EENG 305 [South Kensington]\nStaff: Dai\, Wei\nGroups:\nEE-EEE4 -
+  4.66LDDP\nEE-EEE4 Taster\nEE-EIE4 - 4.66LDDP\nEE-EIE4 Taster\nEE-MScAML -
+  4.66LDDP\nEE-MScAML Taster\nEE-MScCSP - 4.66LDDP\nEE-MScCSP Taster\nEvent
+  category: Lecture\nPublished Online Link:\nDepartment: EE Department of E
+ lectrical and Electronic Engineering\nId: 454492\nNotes:
+LOCATION:EENG 305 [South Kensington]
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neuroscience for machine learners
+DTSTART:20241015T110000
+DTEND:20241015T130000
+ALL_DAY:False
+DESCRIPTION:Module: ELEC70110 - Neuroscience for Machine Learners\nRoom: E
+ ENG 407A [South Kensington]\nStaff: Goodman\, Daniel F M\nGroups:\nEE-EEE4
+  - ELEC70110 NML\nEE-EEE4 Taster\nEE-EIE4 - ELEC70110 NML\nEE-EIE4 Taster\
+ nEE-MScAML - ELEC70110 NML\nEE-MScAML Taster\nEvent category: Lecture\nPub
+ lished Online Link:\nDepartment: EE Department of Electrical and Electroni
+ c Engineering\nId: 4207872\nNotes:
+LOCATION:EENG 407A [South Kensington]
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELEC70048 - Probability and Stochastic Processes
+DTSTART:20241016T090000
+DTEND:20241016T100000
+ALL_DAY:False
+DESCRIPTION:Module: ELEC70048 - Probability and Stochastic Processes\nRoom
+ :\nEENG 403A [South Kensington]\nEENG 403B [South Kensington]\nStaff: Ling
+ \, Cong\nGroups:\nEE-EEE4 - 4.10PSP\nEE-EEE4 Taster\nEE-EIE4 - 4.10PSP\nEE
+ -EIE4 Taster\nEE-MScAML - 4.10PSP\nEE-MScAML Taster\nEE-MScC - 4.10PSP\nEE
+ -MScC Taster\nEE-MScCSP\nEE-MScCSP Taster\nEE-MScFPN - 4.10PSP\nEE-MScFPN 
+ Taster\nEvent category: Lecture\nPublished Online Link:\nDepartment: EE De
+ partment of Electrical and Electronic Engineering\nId: 2285205\nNotes:
+LOCATION:EENG 403A [South Kensington] EENG 403B [South Kensington]
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELEC70071 - Self-Organising Multi-Agent Systems
+DTSTART:20241018T110000
+DTEND:20241018T130000
+ALL_DAY:False
+DESCRIPTION:Module: ELEC70071 - Self-Organising Multi-Agent Systems\nRoom:
+  EENG 508A [South Kensington]\nStaff: Pitt\, Jeremy V\nGroups:\nEE-EEE4 - 
+ 4.70SOMAS\nEE-EEE4 Taster\nEE-EIE4 - 4.70SOMAS\nEE-EIE4 Taster\nEE-MScAML 
+ - 4.70SOMAS\nEE-MScAML Taster\nEvent category: Lecture\nPublished Online L
+ ink:\nDepartment: EE Department of Electrical and Electronic Engineering\n
+ Id: 2163627\nNotes:
+LOCATION:EENG 508A [South Kensington]
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELEC60004 - Machine Reasoning
+DTSTART:20241014T160000
+DTEND:20241014T180000
+ALL_DAY:False
+DESCRIPTION:Modules:\nELEC60004 - Machine Reasoning\nELEC70068 - Machine R
+ easoning\nRoom:\nEENG 508A [South Kensington]\nEENG 508B [South Kensington
+ ]\nStaff: Pitt\, Jeremy V\nGroups:\nEE-EEE3 - 3.16AI\nEE-EEE3 Taster\nEE-E
+ IE3 - 3.16AI\nEE-EIE3 Taster\nEE-MScAML - 3.16AI\nEE-MScAML Taster\nEvent 
+ category: Lecture\nPublished Online Link:\nDepartment: EE Department of El
+ ectrical and Electronic Engineering\nId: 3301926\nNotes:
+LOCATION:EENG 508A [South Kensington] EENG 508B [South Kensington]
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELEC70078 - Digital Image Processing
+DTSTART:20241015T140000
+DTEND:20241015T160000
+ALL_DAY:False
+DESCRIPTION:Module: ELEC70078 - Digital Image Processing\nRoom:\nEENG 403A
+  [South Kensington]\nEENG 403B [South Kensington]\nStaff: Stathaki\, Tania
+ \nGroups:\nEE-EEE4 - 4.08DIP\nEE-EEE4 Taster\nEE-EIE4 - 4.08DIP\nEE-EIE4 T
+ aster\nEE-MScAML - 4.08DIP\nEE-MScAML Taster\nEE-MScCSP - 4.08DIP\nEE-MScC
+ SP Taster\nEvent category: Lecture\nPublished Online Link:\nDepartment: EE
+  Department of Electrical and Electronic Engineering\nId: 2794890\nNotes:
+LOCATION:EENG 403A [South Kensington] EENG 403B [South Kensington]
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELEC70071 - Self-Organising Multi-Agent Systems
+DTSTART:20241018T140000
+DTEND:20241018T160000
+ALL_DAY:False
+DESCRIPTION:Module: ELEC70071 - Self-Organising Multi-Agent Systems\nRoom:
+ \nEENG 508A [South Kensington]\nEENG 508B [South Kensington]\nStaff: Pitt\
+ , Jeremy V\nGroups:\nEE-EEE4 - 4.70SOMAS\nEE-EEE4 Taster\nEE-EIE4 - 4.70SO
+ MAS\nEE-EIE4 Taster\nEE-MScAML - 4.70SOMAS\nEE-MScAML Taster\nEvent catego
+ ry: Lecture\nPublished Online Link:\nDepartment: EE Department of Electric
+ al and Electronic Engineering\nId: 3372823\nNotes:
+LOCATION:EENG 508A [South Kensington] EENG 508B [South Kensington]
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELEC60004 - Machine Reasoning
+DTSTART:20241015T160000
+DTEND:20241015T180000
+ALL_DAY:False
+DESCRIPTION:Modules:\nELEC60004 - Machine Reasoning\nELEC70068 - Machine R
+ easoning\nRoom:\nEENG 508A [South Kensington]\nEENG 508B [South Kensington
+ ]\nStaff:\nPeixoto Cardoso\, Rui P\nPitt\, Jeremy V\nGroups:\nEE-EEE3 - 3.
+ 16AI\nEE-EEE3 Taster\nEE-EIE3 - 3.16AI\nEE-EIE3 Taster\nEE-MScAML - 3.16AI
+ \nEE-MScAML Taster\nEvent category: Lecture\nPublished Online Link:\nDepar
+ tment: EE Department of Electrical and Electronic Engineering\nId: 3301936
+ \nNotes:
+LOCATION:EENG 508A [South Kensington] EENG 508B [South Kensington]
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELEC70039 - Wavelets\, Representation Learning and their Applicati
+ ons
+DTSTART:20241021T110000
+DTEND:20241021T130000
+ALL_DAY:False
+DESCRIPTION:Module: ELEC70039 - Wavelets\, Representation Learning and the
+ ir Applications\nRoom:\nEENG 403A [South Kensington]\nEENG 403B [South Ken
+ sington]\nStaff: Dragotti\, Pier Luigi\nGroups:\nEE-EEE4 - 4.45WA\nEE-EEE4
+  Taster\nEE-EIE4 - 4.45WA\nEE-EIE4 Taster\nEE-MScAML - 4.45WA\nEE-MScAML T
+ aster\nEE-MScC - 4.45WA\nEE-MScC Taster\nEE-MScCSP - 4.45WA\nEE-MScCSP Tas
+ ter\nEvent category: Lecture\nPublished Online Link:\nDepartment: EE Depar
+ tment of Electrical and Electronic Engineering\nId: 2395078\nNotes:
+LOCATION:EENG 403A [South Kensington] EENG 403B [South Kensington]
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELEC70048 - Probability and Stochastic Processes
+DTSTART:20241022T110000
+DTEND:20241022T130000
+ALL_DAY:False
+DESCRIPTION:Module: ELEC70048 - Probability and Stochastic Processes\nRoom
+ :\nEENG 403A [South Kensington]\nEENG 403B [South Kensington]\nStaff: Ling
+ \, Cong\nGroups:\nEE-EEE4 - 4.10PSP\nEE-EEE4 Taster\nEE-EIE4 - 4.10PSP\nEE
+ -EIE4 Taster\nEE-MScAML - 4.10PSP\nEE-MScAML Taster\nEE-MScC - 4.10PSP\nEE
+ -MScC Taster\nEE-MScCSP\nEE-MScCSP Taster\nEE-MScFPN - 4.10PSP\nEE-MScFPN 
+ Taster\nEvent category: Lecture\nPublished Online Link:\nDepartment: EE De
+ partment of Electrical and Electronic Engineering\nId: 3329789\nNotes:
+LOCATION:EENG 403A [South Kensington] EENG 403B [South Kensington]
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELEC70048 - Probability and Stochastic Processes
+DTSTART:20241023T090000
+DTEND:20241023T100000
+ALL_DAY:False
+DESCRIPTION:Module: ELEC70048 - Probability and Stochastic Processes\nRoom
+ :\nEENG 403A [South Kensington]\nEENG 403B [South Kensington]\nStaff: Ling
+ \, Cong\nGroups:\nEE-EEE4 - 4.10PSP\nEE-EEE4 Taster\nEE-EIE4 - 4.10PSP\nEE
+ -EIE4 Taster\nEE-MScAML - 4.10PSP\nEE-MScAML Taster\nEE-MScC - 4.10PSP\nEE
+ -MScC Taster\nEE-MScCSP\nEE-MScCSP Taster\nEE-MScFPN - 4.10PSP\nEE-MScFPN 
+ Taster\nEvent category: Lecture\nPublished Online Link:\nDepartment: EE De
+ partment of Electrical and Electronic Engineering\nId: 2285205\nNotes:
+LOCATION:EENG 403A [South Kensington] EENG 403B [South Kensington]
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELEC70060 - Laboratory in Applied Machine Learning
+DTSTART:20241024T110000
+DTEND:20241024T130000
+ALL_DAY:False
+DESCRIPTION:Module: ELEC70060 - Laboratory in AML\nRoom: EENG 507 [South K
+ ensington]\nStaff:\nAbu Ebayyeh\, Abd Al Rahman M\nQin\, Chen\nSpiers\, Ad
+ \nGroup: EE-MScAML\nEvent category: Laboratory Session\nPublished Online L
+ ink:\nDepartment: EE Department of Electrical and Electronic Engineering\n
+ Id: 3329750\nNotes:
+LOCATION:EENG 507 [South Kensington]
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELEC70098 - Optimisation
+DTSTART:20241025T090000
+DTEND:20241025T110000
+ALL_DAY:False
+DESCRIPTION:Module: ELEC70098 - Optimisation\nRoom: SAFB G16 - Lecture The
+ atre - Level 1 [South Kensington]\nStaff: Astolfi\, Alessandro\nGroups:\nA
+ ERO-ELEC70098 OP\nCE4 EE-E4.29\nEE-EEE4 - 4.29O\nEE-EEE4 Taster\nEE-EIE4 -
+  4.29O\nEE-EIE4 Taster\nEE-MScAML - 70098Opt\nEE-MScAML Taster\nEE-MScC - 
+ 4.29O\nEE-MScC Taster\nEE-MScFPN - 4.29O\nEE-MScFPN Taster\nELEC70024 - Op
+ timisation\nME EE4-29\nME4-ALL\nEvent category: Lecture\nPublished Online 
+ Link:\nDepartment: EE Department of Electrical and Electronic Engineering\
+ nId: 454458\nNotes:
+LOCATION:SAFB G16 - Lecture Theatre - Level 1 [South Kensington]
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELEC70098 - Optimisation
+DTSTART:20241025T090000
+DTEND:20241025T110000
+ALL_DAY:False
+DESCRIPTION:Module: ELEC70098 - Optimisation\nRoom: SAFB G16 - Lecture The
+ atre - Level 1 [South Kensington]\nStaff: Astolfi\, Alessandro\nGroups:\nA
+ ERO-ELEC70098 OP\nCE4 EE-E4.29\nEE-EEE4 - 4.29O\nEE-EEE4 Taster\nEE-EIE4 -
+  4.29O\nEE-EIE4 Taster\nEE-MScAML - 70098Opt\nEE-MScAML Taster\nEE-MScC - 
+ 4.29O\nEE-MScC Taster\nEE-MScFPN - 4.29O\nEE-MScFPN Taster\nELEC70024 - Op
+ timisation\nME EE4-29\nME4-ALL\nEvent category: Lecture\nPublished Online 
+ Link:\nDepartment: EE Department of Electrical and Electronic Engineering\
+ nId: 454458\nNotes:
+LOCATION:SAFB G16 - Lecture Theatre - Level 1 [South Kensington]
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELEC70098 - Optimisation
+DTSTART:20241025T090000
+DTEND:20241025T110000
+ALL_DAY:False
+DESCRIPTION:Module: ELEC70098 - Optimisation\nRoom: SAFB G16 - Lecture The
+ atre - Level 1 [South Kensington]\nStaff: Astolfi\, Alessandro\nGroups:\nA
+ ERO-ELEC70098 OP\nCE4 EE-E4.29\nEE-EEE4 - 4.29O\nEE-EEE4 Taster\nEE-EIE4 -
+  4.29O\nEE-EIE4 Taster\nEE-MScAML - 70098Opt\nEE-MScAML Taster\nEE-MScC - 
+ 4.29O\nEE-MScC Taster\nEE-MScFPN - 4.29O\nEE-MScFPN Taster\nELEC70024 - Op
+ timisation\nME EE4-29\nME4-ALL\nEvent category: Lecture\nPublished Online 
+ Link:\nDepartment: EE Department of Electrical and Electronic Engineering\
+ nId: 454458\nNotes:
+LOCATION:SAFB G16 - Lecture Theatre - Level 1 [South Kensington]
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELEC70037 - Topics in Large Dimensional Data Processing
+DTSTART:20241021T140000
+DTEND:20241021T160000
+ALL_DAY:False
+DESCRIPTION:Module: ELEC70037 - Topics in Large Dimensional Data Processin
+ g\nRoom: EENG 305 [South Kensington]\nStaff: Dai\, Wei\nGroups:\nEE-EEE4 -
+  4.66LDDP\nEE-EEE4 Taster\nEE-EIE4 - 4.66LDDP\nEE-EIE4 Taster\nEE-MScAML -
+  4.66LDDP\nEE-MScAML Taster\nEE-MScCSP - 4.66LDDP\nEE-MScCSP Taster\nEvent
+  category: Lecture\nPublished Online Link:\nDepartment: EE Department of E
+ lectrical and Electronic Engineering\nId: 454492\nNotes:
+LOCATION:EENG 305 [South Kensington]
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neuroscience for machine learners
+DTSTART:20241022T110000
+DTEND:20241022T130000
+ALL_DAY:False
+DESCRIPTION:Module: ELEC70110 - Neuroscience for Machine Learners\nRoom: E
+ ENG 407A [South Kensington]\nStaff: Goodman\, Daniel F M\nGroups:\nEE-EEE4
+  - ELEC70110 NML\nEE-EEE4 Taster\nEE-EIE4 - ELEC70110 NML\nEE-EIE4 Taster\
+ nEE-MScAML - ELEC70110 NML\nEE-MScAML Taster\nEvent category: Lecture\nPub
+ lished Online Link:\nDepartment: EE Department of Electrical and Electroni
+ c Engineering\nId: 4207872\nNotes:
+LOCATION:EENG 407A [South Kensington]
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELEC60004 - Machine Reasoning
+DTSTART:20241021T160000
+DTEND:20241021T180000
+ALL_DAY:False
+DESCRIPTION:Modules:\nELEC60004 - Machine Reasoning\nELEC70068 - Machine R
+ easoning\nRoom:\nEENG 508A [South Kensington]\nEENG 508B [South Kensington
+ ]\nStaff: Pitt\, Jeremy V\nGroups:\nEE-EEE3 - 3.16AI\nEE-EEE3 Taster\nEE-E
+ IE3 - 3.16AI\nEE-EIE3 Taster\nEE-MScAML - 3.16AI\nEE-MScAML Taster\nEvent 
+ category: Lecture\nPublished Online Link:\nDepartment: EE Department of El
+ ectrical and Electronic Engineering\nId: 3301926\nNotes:
+LOCATION:EENG 508A [South Kensington] EENG 508B [South Kensington]
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELEC70078 - Digital Image Processing
+DTSTART:20241022T140000
+DTEND:20241022T160000
+ALL_DAY:False
+DESCRIPTION:Module: ELEC70078 - Digital Image Processing\nStaff: Stathaki\
+ , Tania\nGroups:\nEE-EEE4 - 4.08DIP\nEE-EEE4 Taster\nEE-EIE4 - 4.08DIP\nEE
+ -EIE4 Taster\nEE-MScAML - 4.08DIP\nEE-MScAML Taster\nEE-MScCSP - 4.08DIP\n
+ EE-MScCSP Taster\nEvent category: Lecture\nPublished Online Link:\nDepartm
+ ent: EE Department of Electrical and Electronic Engineering\nId: 2794890\n
+ Notes:
+LOCATION:Room information missing
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELEC70071 - Self-Organising Multi-Agent Systems
+DTSTART:20241025T140000
+DTEND:20241025T160000
+ALL_DAY:False
+DESCRIPTION:Module: ELEC70071 - Self-Organising Multi-Agent Systems\nRoom:
+ \nEENG 508A [South Kensington]\nEENG 508B [South Kensington]\nStaff: Pitt\
+ , Jeremy V\nGroups:\nEE-EEE4 - 4.70SOMAS\nEE-EEE4 Taster\nEE-EIE4 - 4.70SO
+ MAS\nEE-EIE4 Taster\nEE-MScAML - 4.70SOMAS\nEE-MScAML Taster\nEvent catego
+ ry: Lecture\nPublished Online Link:\nDepartment: EE Department of Electric
+ al and Electronic Engineering\nId: 3372823\nNotes:
+LOCATION:EENG 508A [South Kensington] EENG 508B [South Kensington]
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELEC60004 - Machine Reasoning
+DTSTART:20241022T160000
+DTEND:20241022T180000
+ALL_DAY:False
+DESCRIPTION:Modules:\nELEC60004 - Machine Reasoning\nELEC70068 - Machine R
+ easoning\nRoom:\nEENG 508A [South Kensington]\nEENG 508B [South Kensington
+ ]\nStaff:\nPeixoto Cardoso\, Rui P\nPitt\, Jeremy V\nGroups:\nEE-EEE3 - 3.
+ 16AI\nEE-EEE3 Taster\nEE-EIE3 - 3.16AI\nEE-EIE3 Taster\nEE-MScAML - 3.16AI
+ \nEE-MScAML Taster\nEvent category: Lecture\nPublished Online Link:\nDepar
+ tment: EE Department of Electrical and Electronic Engineering\nId: 3301936
+ \nNotes:
+LOCATION:EENG 508A [South Kensington] EENG 508B [South Kensington]
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELEC70039 - Wavelets\, Representation Learning and their Applicati
+ ons
+DTSTART:20241028T110000
+DTEND:20241028T130000
+ALL_DAY:False
+DESCRIPTION:Module: ELEC70039 - Wavelets\, Representation Learning and the
+ ir Applications\nRoom:\nEENG 403A [South Kensington]\nEENG 403B [South Ken
+ sington]\nStaff: Dragotti\, Pier Luigi\nGroups:\nEE-EEE4 - 4.45WA\nEE-EEE4
+  Taster\nEE-EIE4 - 4.45WA\nEE-EIE4 Taster\nEE-MScAML - 4.45WA\nEE-MScAML T
+ aster\nEE-MScC - 4.45WA\nEE-MScC Taster\nEE-MScCSP - 4.45WA\nEE-MScCSP Tas
+ ter\nEvent category: Lecture\nPublished Online Link:\nDepartment: EE Depar
+ tment of Electrical and Electronic Engineering\nId: 2395078\nNotes:
+LOCATION:EENG 403A [South Kensington] EENG 403B [South Kensington]
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELEC70048 - Probability and Stochastic Processes
+DTSTART:20241029T110000
+DTEND:20241029T130000
+ALL_DAY:False
+DESCRIPTION:Module: ELEC70048 - Probability and Stochastic Processes\nRoom
+ :\nEENG 403A [South Kensington]\nEENG 403B [South Kensington]\nStaff: Ling
+ \, Cong\nGroups:\nEE-EEE4 - 4.10PSP\nEE-EEE4 Taster\nEE-EIE4 - 4.10PSP\nEE
+ -EIE4 Taster\nEE-MScAML - 4.10PSP\nEE-MScAML Taster\nEE-MScC - 4.10PSP\nEE
+ -MScC Taster\nEE-MScCSP\nEE-MScCSP Taster\nEE-MScFPN - 4.10PSP\nEE-MScFPN 
+ Taster\nEvent category: Lecture\nPublished Online Link:\nDepartment: EE De
+ partment of Electrical and Electronic Engineering\nId: 3329789\nNotes:
+LOCATION:EENG 403A [South Kensington] EENG 403B [South Kensington]
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELEC70048 - Probability and Stochastic Processes
+DTSTART:20241030T090000
+DTEND:20241030T100000
+ALL_DAY:False
+DESCRIPTION:Module: ELEC70048 - Probability and Stochastic Processes\nRoom
+ :\nEENG 403A [South Kensington]\nEENG 403B [South Kensington]\nStaff: Ling
+ \, Cong\nGroups:\nEE-EEE4 - 4.10PSP\nEE-EEE4 Taster\nEE-EIE4 - 4.10PSP\nEE
+ -EIE4 Taster\nEE-MScAML - 4.10PSP\nEE-MScAML Taster\nEE-MScC - 4.10PSP\nEE
+ -MScC Taster\nEE-MScCSP\nEE-MScCSP Taster\nEE-MScFPN - 4.10PSP\nEE-MScFPN 
+ Taster\nEvent category: Lecture\nPublished Online Link:\nDepartment: EE De
+ partment of Electrical and Electronic Engineering\nId: 2285205\nNotes:
+LOCATION:EENG 403A [South Kensington] EENG 403B [South Kensington]
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELEC60019 - Machine Learning
+DTSTART:20241031T140000
+DTEND:20241031T160000
+ALL_DAY:False
+DESCRIPTION:Modules:\nELEC60019 - Machine Learning\nELEC70059 - Machine Le
+ arning\nRoom:\nEENG 403A [South Kensington]\nEENG 403B [South Kensington]\
+ nStaff:\nAbu Ebayyeh\, Abd Al Rahman M\nGunduz\, Deniz\nParbhoo\, Sonali\n
+ Groups:\nEE-EEE3 - 3.23ML\nEE-EEE3 Taster\nEE-EIE3 - 3.23ML\nEE-EIE3 Taste
+ r\nEE-MScA Taster\nEE-MScAML\nEE-MScAML Taster\nEvent category: Lecture\nP
+ ublished Online Link:\nDepartment: EE Department of Electrical and Electro
+ nic Engineering\nId: 2351037\nNotes:
+LOCATION:EENG 403A [South Kensington] EENG 403B [South Kensington]
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELEC70037 - Topics in Large Dimensional Data Processing
+DTSTART:20241028T140000
+DTEND:20241028T160000
+ALL_DAY:False
+DESCRIPTION:Module: ELEC70037 - Topics in Large Dimensional Data Processin
+ g\nRoom: EENG 305 [South Kensington]\nStaff: Dai\, Wei\nGroups:\nEE-EEE4 -
+  4.66LDDP\nEE-EEE4 Taster\nEE-EIE4 - 4.66LDDP\nEE-EIE4 Taster\nEE-MScAML -
+  4.66LDDP\nEE-MScAML Taster\nEE-MScCSP - 4.66LDDP\nEE-MScCSP Taster\nEvent
+  category: Lecture\nPublished Online Link:\nDepartment: EE Department of E
+ lectrical and Electronic Engineering\nId: 454492\nNotes:
+LOCATION:EENG 305 [South Kensington]
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neuroscience for machine learners
+DTSTART:20241029T110000
+DTEND:20241029T130000
+ALL_DAY:False
+DESCRIPTION:Module: ELEC70110 - Neuroscience for Machine Learners\nRoom: E
+ ENG 407A [South Kensington]\nStaff: Goodman\, Daniel F M\nGroups:\nEE-EEE4
+  - ELEC70110 NML\nEE-EEE4 Taster\nEE-EIE4 - ELEC70110 NML\nEE-EIE4 Taster\
+ nEE-MScAML - ELEC70110 NML\nEE-MScAML Taster\nEvent category: Lecture\nPub
+ lished Online Link:\nDepartment: EE Department of Electrical and Electroni
+ c Engineering\nId: 4207872\nNotes:
+LOCATION:EENG 407A [South Kensington]
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MSc Seminar Series with Industrial Speakers
+DTSTART:20241030T130000
+DTEND:20241030T150000
+ALL_DAY:False
+DESCRIPTION:Module: Department of Electrical and Electronic Engineering Ad
+  Hoc\nRoom:\nEENG 407A [South Kensington]\nEENG 407B [South Kensington]\nE
+ ENG 408 [South Kensington]\nStaff: Victor-Smith\, Jennifer S\nGroups:\nEE-
+ MScA\nEE-MScAML\nEE-MScC\nEE-MScCSP\nEE-MScFPN\nEvent category: Seminar\nP
+ ublished Online Link:\nDepartment: EE Department of Electrical and Electro
+ nic Engineering\nId: 4506176\nNotes:
+LOCATION:EENG 407A [South Kensington] EENG 407B [South Kensington] EENG 40
+ 8 [South Kensington]
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELEC60004 - Machine Reasoning
+DTSTART:20241028T160000
+DTEND:20241028T180000
+ALL_DAY:False
+DESCRIPTION:Modules:\nELEC60004 - Machine Reasoning\nELEC70068 - Machine R
+ easoning\nRoom:\nEENG 508A [South Kensington]\nEENG 508B [South Kensington
+ ]\nStaff: Pitt\, Jeremy V\nGroups:\nEE-EEE3 - 3.16AI\nEE-EEE3 Taster\nEE-E
+ IE3 - 3.16AI\nEE-EIE3 Taster\nEE-MScAML - 3.16AI\nEE-MScAML Taster\nEvent 
+ category: Lecture\nPublished Online Link:\nDepartment: EE Department of El
+ ectrical and Electronic Engineering\nId: 3301926\nNotes:
+LOCATION:EENG 508A [South Kensington] EENG 508B [South Kensington]
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELEC70078 - Digital Image Processing
+DTSTART:20241029T140000
+DTEND:20241029T160000
+ALL_DAY:False
+DESCRIPTION:Module: ELEC70078 - Digital Image Processing\nRoom:\nEENG 403A
+  [South Kensington]\nEENG 403B [South Kensington]\nStaff: Stathaki\, Tania
+ \nGroups:\nEE-EEE4 - 4.08DIP\nEE-EEE4 Taster\nEE-EIE4 - 4.08DIP\nEE-EIE4 T
+ aster\nEE-MScAML - 4.08DIP\nEE-MScAML Taster\nEE-MScCSP - 4.08DIP\nEE-MScC
+ SP Taster\nEvent category: Lecture\nPublished Online Link:\nDepartment: EE
+  Department of Electrical and Electronic Engineering\nId: 2794890\nNotes:
+LOCATION:EENG 403A [South Kensington] EENG 403B [South Kensington]
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Active Bystander with speaker Mark Bailey (EEE PhD and MSc student
+ s)
+DTSTART:20241030T150000
+DTEND:20241030T160000
+ALL_DAY:False
+DESCRIPTION:Module: Department of Electrical and Electronic Engineering Ad
+  Hoc\nRoom: EENG 408 [South Kensington]\nStaff: Victor-Smith\, Jennifer S\
+ nGroups:\nEE-MScA\nEE-MScAML\nEE-MScC\nEE-MScCSP\nEE-MScFPN\nEvent categor
+ y: Meeting\nPublished Online Link:\nDepartment: EE Department of Electrica
+ l and Electronic Engineering\nId: 4711765\nNotes:
+LOCATION:EENG 408 [South Kensington]
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELEC60004 - Machine Reasoning
+DTSTART:20241029T160000
+DTEND:20241029T180000
+ALL_DAY:False
+DESCRIPTION:Modules:\nELEC60004 - Machine Reasoning\nELEC70068 - Machine R
+ easoning\nRoom:\nEENG 508A [South Kensington]\nEENG 508B [South Kensington
+ ]\nStaff:\nPeixoto Cardoso\, Rui P\nPitt\, Jeremy V\nGroups:\nEE-EEE3 - 3.
+ 16AI\nEE-EEE3 Taster\nEE-EIE3 - 3.16AI\nEE-EIE3 Taster\nEE-MScAML - 3.16AI
+ \nEE-MScAML Taster\nEvent category: Lecture\nPublished Online Link:\nDepar
+ tment: EE Department of Electrical and Electronic Engineering\nId: 3301936
+ \nNotes:
+LOCATION:EENG 508A [South Kensington] EENG 508B [South Kensington]
+END:VEVENT
+END:VCALENDAR
