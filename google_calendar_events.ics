@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My Calendar Product//mxm.dk//
 BEGIN:VEVENT
-SUMMARY:Imperial College Union Welcome Fair (Clubs and Societies)
-DTSTART:20241001T070000
-DTEND:20241001T235900
-ALL_DAY:False
-DESCRIPTION:Event category: For Information Only\nPublished Online Link:\n
- Department: CTSO Central Timetabling Support Office\nId: 4467426\nNotes:
-LOCATION:Room information missing
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Wellbeing session PhD and MSc
 DTSTART:20241002T110000
 DTEND:20241002T120000
